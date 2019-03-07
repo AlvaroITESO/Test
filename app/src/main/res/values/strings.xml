@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Iteso Store</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tech_1">MacBook Pro</string>
+    <string name="tech_2">Alienware 17"</string>
+    <string name="home_1">Comedor</string>
+    <string name="home_2">Cama</string>
+    <string name="elec_1">Nintendo Switch</string>
+    <string name="elec_2">Nes MINI</string>
+    <string name="store_1">Best Buy</string>
+    <string name="phone_1">3312345678</string>
+    <string name="city_1">Zapopan</string>
+    <string name="city_2">Guadalajra</string>
+</resources>
